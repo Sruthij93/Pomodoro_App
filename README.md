@@ -6,11 +6,11 @@ This is a simple Pomodoro Timer app built using HTML, CSS, and JavaScript. It wa
 
 ## Features
 
-- [ ] Select different timer intervals (e.g., 25-minute work sessions, 5-minute breaks)
+- [x] Select different timer intervals (e.g., 25-minute work sessions, 5-minute breaks)
 
-- [ ] Start, pause, and reset the timer
+- [X] Start, pause, and reset the timer
 
-- [ ] Visual and/or audio indication when the timer ends
+- [X] Visual and/or audio indication when the timer ends
 
 ## Installation
 
