@@ -102,3 +102,11 @@ button {
 button:hover {
   color: #90c0d1;
 }
+
+#timer-select {
+  background-color: rgb(197, 173, 227);
+  font-size: 18px;
+  border-radius: 5px;
+  margin: 10px auto 10px auto;
+  color: rgb(88, 16, 177);
+}
